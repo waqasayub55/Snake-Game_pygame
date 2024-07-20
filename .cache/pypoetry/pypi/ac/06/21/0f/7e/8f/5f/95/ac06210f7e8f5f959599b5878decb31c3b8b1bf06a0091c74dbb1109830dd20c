@@ -1,0 +1,1 @@
+9999999999{"name": "SecretStorage", "version": "3.3.3", "summary": "Python bindings to FreeDesktop.org Secret Service API", "platform": "Linux", "requires_dist": ["cryptography (>=2.0)", "jeepney (>=0.6)"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

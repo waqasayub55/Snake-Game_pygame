@@ -1,0 +1,1 @@
+9999999999{"name": "more-itertools", "version": "10.0.0", "summary": "More routines for operating on iterables, beyond itertools", "platform": null, "requires_dist": null, "requires_python": ">=3.8", "files": [], "_cache_version": "1.0.0"}

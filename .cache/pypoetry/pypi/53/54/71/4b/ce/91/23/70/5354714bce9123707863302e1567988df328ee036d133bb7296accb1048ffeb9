@@ -1,0 +1,1 @@
+9999999999{"name": "pkginfo", "version": "1.9.6", "summary": "Query metadata from sdists / bdists / installed packages.", "platform": "Unix", "requires_dist": ["pytest ; extra == 'testing'", "pytest-cov ; extra == 'testing'"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

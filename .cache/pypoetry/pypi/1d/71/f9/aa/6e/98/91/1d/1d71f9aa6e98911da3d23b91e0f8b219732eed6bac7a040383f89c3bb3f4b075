@@ -1,0 +1,1 @@
+9999999999{"name": "yapf", "version": "0.40.1", "summary": "A formatter for Python code.", "platform": null, "requires_dist": ["importlib-metadata (>=6.6.0)", "platformdirs (>=3.5.1)", "tomli (>=2.0.1)"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}

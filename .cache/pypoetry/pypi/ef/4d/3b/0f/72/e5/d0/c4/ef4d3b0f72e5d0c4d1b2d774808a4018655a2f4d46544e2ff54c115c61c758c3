@@ -1,0 +1,1 @@
+9999999999{"name": "CacheControl", "version": "0.12.14", "summary": "httplib2 caching for requests", "platform": null, "requires_dist": ["requests", "msgpack (>=0.5.2)", "lockfile (>=0.9) ; extra == 'filecache'", "redis (>=2.10.5) ; extra == 'redis'"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

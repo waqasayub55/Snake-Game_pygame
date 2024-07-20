@@ -1,0 +1,1 @@
+9999999999{"name": "requests-toolbelt", "version": "0.9.1", "summary": "A utility belt for advanced users of python-requests", "platform": "", "requires_dist": ["requests (<3.0.0,>=2.0.1)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

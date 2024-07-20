@@ -1,0 +1,1 @@
+9999999999{"name": "pexpect", "version": "4.8.0", "summary": "Pexpect allows easy control of interactive console applications.", "platform": "UNIX", "requires_dist": ["ptyprocess (>=0.5)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

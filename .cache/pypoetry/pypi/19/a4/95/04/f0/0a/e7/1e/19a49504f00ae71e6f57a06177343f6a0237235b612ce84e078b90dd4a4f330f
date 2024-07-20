@@ -1,0 +1,1 @@
+9999999999{"name": "pywin32-ctypes", "version": "0.2.2", "summary": "A (partial) reimplementation of pywin32 using ctypes/cffi", "platform": null, "requires_dist": null, "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}
