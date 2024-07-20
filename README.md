@@ -1,0 +1,1 @@
+# This project is about a snake game. <br> The features used in this game is growing object, to implement the growing object I've used a class to represent the object. <br> The attributes of the class include object's size and methods to increase the size of the object.
